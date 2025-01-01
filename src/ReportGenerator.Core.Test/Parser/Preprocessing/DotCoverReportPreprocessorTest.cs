@@ -60,3 +60,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Parser.Preprocessing
         }
     }
 }
+Revert API - refactoring code
