@@ -177,4 +177,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.History
             }
         }
     }
-}
+}Revert auth - updating docs
