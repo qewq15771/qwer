@@ -169,4 +169,4 @@ export class ClassViewModel extends ElementBase {
             }
         }
     }
-}
+}Fix build - handling edge cases
