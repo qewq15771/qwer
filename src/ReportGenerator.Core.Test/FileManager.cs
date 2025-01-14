@@ -105,3 +105,4 @@ namespace Palmmedia.ReportGenerator.Core.Test
         // ICollectionFixture<> interfaces.
     }
 }
+Remove build - fixing typo
