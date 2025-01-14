@@ -44,4 +44,4 @@ namespace Test
         public string AutoProperty { get; set; }
     }
 }
-Add API - enhancing logs
+Add API - enhancing logsRemove README - fixing typo
