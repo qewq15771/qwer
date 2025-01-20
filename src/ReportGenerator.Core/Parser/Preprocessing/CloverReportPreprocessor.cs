@@ -144,3 +144,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Preprocessing
         }
     }
 }
+Document README - fixing a bug
