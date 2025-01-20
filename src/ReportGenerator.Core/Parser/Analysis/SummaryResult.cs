@@ -226,3 +226,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Analysis
         }
     }
 }
+Add configuration - refactoring code
