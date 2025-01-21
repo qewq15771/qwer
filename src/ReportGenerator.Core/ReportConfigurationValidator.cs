@@ -207,3 +207,4 @@ namespace Palmmedia.ReportGenerator.Core
         }
     }
 }
+Refactor configuration - refactoring code
