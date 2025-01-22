@@ -709,3 +709,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Analysis
         }
     }
 }
+Document build - adding new feature
