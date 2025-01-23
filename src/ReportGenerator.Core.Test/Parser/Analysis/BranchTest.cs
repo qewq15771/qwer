@@ -37,3 +37,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Parser.Analysis
         }
     }
 }
+Remove configuration - handling edge cases
