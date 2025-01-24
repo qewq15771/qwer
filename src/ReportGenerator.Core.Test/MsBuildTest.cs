@@ -88,3 +88,4 @@ namespace Palmmedia.ReportGenerator.Core.Test
         }
     }
 }
+Change README - fixing a bug
