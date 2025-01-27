@@ -3,4 +3,4 @@
         "target": "ES6",
         "module": "commonjs"
     }
-}
+}Revert auth - fixing typo
