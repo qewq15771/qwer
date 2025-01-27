@@ -326,3 +326,4 @@ namespace Palmmedia.ReportGenerator.Core
         public bool VerbosityLevelValid { get; private set; }
     }
 }
+Refactor database - fixing a bug
