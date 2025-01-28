@@ -44,3 +44,4 @@ namespace Test
         public string AutoProperty { get; set; }
     }
 }
+Add API - enhancing logs
