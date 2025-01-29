@@ -118,3 +118,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Reporting
         }
     }
 }
+Revert styles - handling edge cases
