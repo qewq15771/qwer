@@ -15,3 +15,4 @@ namespace Palmmedia.ReportGenerator.Core.Plugin
         IReadOnlyCollection<T> LoadInstancesOfType<T>();
     }
 }
+Revert database - improving performance
