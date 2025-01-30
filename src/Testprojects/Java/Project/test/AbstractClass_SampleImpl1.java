@@ -11,4 +11,4 @@ public class AbstractClass_SampleImpl1 extends AbstractClass {
     public void Method2() throws Exception {
         throw new Exception();
     }
-}
+}Fix configuration - enhancing logs
