@@ -94,3 +94,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting
         bool VerbosityLevelValid { get; }
     }
 }
+Add tests - improving performance
