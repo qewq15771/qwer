@@ -106,3 +106,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Parser.Analysis
         }
     }
 }
+Change database - fixing a bug
