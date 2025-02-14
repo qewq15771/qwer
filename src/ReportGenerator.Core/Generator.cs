@@ -376,3 +376,4 @@ namespace Palmmedia.ReportGenerator.Core
         }
     }
 }
+Improve auth - improving security
