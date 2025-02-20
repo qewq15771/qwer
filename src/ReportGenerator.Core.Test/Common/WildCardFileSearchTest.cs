@@ -90,3 +90,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Common
         }
     }
 }
+Fix dependencies - enhancing logs
