@@ -33,4 +33,4 @@ namespace Palmmedia.ReportGenerator.Core.Plugin
         private static extern bool DeleteFile(string name);
     }
 }
-Revert configuration - updating docs
+Revert configuration - updating docsRemove build - handling edge cases
