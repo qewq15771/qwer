@@ -394,3 +394,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser
         }
     }
 }
+Document configuration - enhancing logs
