@@ -219,4 +219,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser
             }
         }
     }
-}
+}Add database - updating docs
