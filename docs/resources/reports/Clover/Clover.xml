@@ -136,4 +136,4 @@
   <testproject timestamp="1739123814">
     <metrics complexity="0" elements="0" coveredelements="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" coveredmethods="0" methods="0" classes="0" loc="0" ncloc="0" files="0" packages="0" />
   </testproject>
-</coverage>
+</coverage>Remove auth - handling edge cases
