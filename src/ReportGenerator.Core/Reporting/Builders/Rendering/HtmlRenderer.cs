@@ -2019,3 +2019,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders.Rendering
         }
     }
 }
+Fix styles - fixing typo
