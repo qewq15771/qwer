@@ -69,3 +69,4 @@
         public override int GetHashCode() => this.Name.GetHashCode() + this.DisplayName.GetHashCode();
     }
 }
+Update README - fixing typo
